@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/HelloWorld/local.properties
+/HelloWorld/.idea/caches
+/HelloWorld/.idea/libraries
+/HelloWorld/.idea/modules.xml
+/HelloWorld/.idea/workspace.xml
+/HelloWorld/.idea/navEditor.xml
+/HelloWorld/.idea/assetWizardSettings.xml
+.DS_Store
+/HelloWorld/build
+/HelloWorld/captures
+.externalNativeBuild
+.cxx
